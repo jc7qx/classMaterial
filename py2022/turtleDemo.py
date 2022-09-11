@@ -5,6 +5,7 @@ import random
 win = turtle.Screen()
 
 tk = turtle.Turtle()
+tk.speed(1)
 turtle.colormode(255)
 tk.width(3)
 for a in range(36):
